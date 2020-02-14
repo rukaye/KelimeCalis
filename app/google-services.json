@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989994751739",
+    "firebase_url": "https://kelimecalis-65326.firebaseio.com",
+    "project_id": "kelimecalis-65326",
+    "storage_bucket": "kelimecalis-65326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989994751739:android:6a5cdf5faa1f0355",
+        "android_client_info": {
+          "package_name": "com.rukayye.kelimecalis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989994751739-5tcpolk5nscstkqnr93viejmenmbnp6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rukayye.kelimecalis",
+            "certificate_hash": "eec2b054e118dbe09ac85166b38554575d267ecc"
+          }
+        },
+        {
+          "client_id": "989994751739-jktegl440a3lap1jt3ruf9qs330dbkjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALAcdh7Zbx8u5yC9LgJJ00r3JMJ1-6-_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989994751739-jktegl440a3lap1jt3ruf9qs330dbkjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
